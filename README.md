@@ -6,7 +6,9 @@ For creating a tidy data set of data wearable  originally from http://archive.ic
 Files in this repo
 
 README.md -- this file
+
 CodeBook.md -- codebook describing variables and transformations
+
 run_analysis.R --  R script
 
 
